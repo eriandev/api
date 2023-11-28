@@ -1,11 +1,32 @@
 {
   "results": [
     {
+      "level": 3,
+      "techs": ["html", "css", "js"],
+      "title": "IP address tracker",
+      "link": "/frontendmentor/ip-address-tracker",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/ip-address-tracker.jpg"
+    },
+    {
       "level": 2,
       "techs": ["html", "css"],
       "title": "Fylo landing page with two column layout",
       "link": "/frontendmentor/fylo-landing-page-with-two-column-layout",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/fylo-landing-page-with-two-column-layout.jpeg"
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/fylo-landing-page-with-two-column-layout.jpg"
+    },
+    {
+      "level": 2,
+      "techs": ["html", "css", "js"],
+      "title": "Interactive card details form",
+      "link": "/frontendmentor/interactive-card-details-form",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/interactive-card-details-form.jpg"
+    },
+    {
+      "level": 2,
+      "techs": ["html", "css"],
+      "title": "Social media dashboard with theme switcher",
+      "link": "/frontendmentor/social-media-dashboard-with-theme-switcher",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/social-media-dashboard-with-theme-switcher.jpg"
     }
   ]
 }
