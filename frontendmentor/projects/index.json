@@ -3,6 +3,13 @@
     {
       "level": 3,
       "techs": ["html", "css", "js"],
+      "title": "Calculator app",
+      "link": "/frontendmentor/calculator-app",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/calculator-app.jpg"
+    },
+    {
+      "level": 3,
+      "techs": ["html", "css", "js"],
       "title": "IP address tracker",
       "link": "/frontendmentor/ip-address-tracker",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/ip-address-tracker.jpg"
