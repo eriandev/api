@@ -20,7 +20,7 @@
     "profile": {
       "image": {
         "alt": "Profile image",
-        "src": "/images/profile-image.webp"
+        "src": "/frontendmentor/images/profile-image.webp"
       },
       "link": "https://www.frontendmentor.io/profile/eriandev/",
       "title": "Go to my frontendmentor profile"
