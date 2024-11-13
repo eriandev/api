@@ -1,0 +1,39 @@
+{
+  "header": {
+    "navigation": [
+      {
+        "external": false,
+        "text": "My Solutions",
+        "to": "/"
+      },
+      {
+        "external": true,
+        "text": "Challenges",
+        "to": "https://www.frontendmentor.io/challenges"
+      },
+      {
+        "external": true,
+        "text": "Resources",
+        "to": "https://www.frontendmentor.io/resources"
+      }
+    ],
+    "profile": {
+      "image": {
+        "alt": "Profile image",
+        "src": "/frontendmentor/images/profile-image.webp"
+      },
+      "link": "https://www.frontendmentor.io/profile/eriandev/",
+      "title": "Go to my frontendmentor profile"
+    }
+  },
+  "footer": {
+    "designedBy": {
+      "link": "https://www.frontendmentor.io/",
+      "text": "Frontend Mentor"
+    },
+    "developedBy": {
+      "link": "https://erian.dev/",
+      "text": "@eriandev"
+    }
+  }
+}
