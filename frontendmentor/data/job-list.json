@@ -3,7 +3,7 @@
     {
       "id": 1,
       "company": "Photosnap",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/photosnap.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/photosnap.svg",
       "new": true,
       "featured": true,
       "position": "Senior Frontend Developer",
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "company": "Manage",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/manage.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/manage.svg",
       "new": true,
       "featured": true,
       "position": "Fullstack Developer",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "company": "Account",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/account.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/account.svg",
       "new": true,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "company": "MyHome",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/myhome.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/myhome.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "company": "Loop Studios",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/loop-studios.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/loop-studios.svg",
       "new": false,
       "featured": false,
       "position": "Software Engineer",
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "company": "FaceIt",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/faceit.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/faceit.svg",
       "new": false,
       "featured": false,
       "position": "Junior Backend Developer",
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "company": "Shortly",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/shortly.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/shortly.svg",
       "new": false,
       "featured": false,
       "position": "Junior Developer",
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "company": "Insure",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/insure.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/insure.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -123,7 +123,7 @@
     {
       "id": 9,
       "company": "Eyecam Co.",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/eyecam-co.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/eyecam-co.svg",
       "new": false,
       "featured": false,
       "position": "Full Stack Engineer",
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "company": "The Air Filter Company",
-      "logo": "/frontendmentor/job-listings-with-filtering/logos/the-air-filter-company.svg",
+      "logo": "/frontendmentor/job-listings-with-filtering/images/the-air-filter-company.svg",
       "new": false,
       "featured": false,
       "position": "Front-end Dev",
