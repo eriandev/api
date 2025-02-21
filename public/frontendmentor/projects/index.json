@@ -7,6 +7,17 @@
         "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
       },
       "techs": ["html", "css", "js"],
+      "title": "Job listings with filtering",
+      "link": "/frontendmentor/job-listings-with-filtering",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/job-listings-with-filtering.jpg"
+    },
+    {
+      "level": {
+        "number": 3,
+        "name": "intermediate",
+        "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
+      },
+      "techs": ["html", "css", "js"],
       "title": "Calculator app",
       "link": "/frontendmentor/calculator-app",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/calculator-app.jpg"
