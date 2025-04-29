@@ -1,0 +1,17 @@
+{
+  "title": "Tools for everyday use",
+  "subtitle": "A useful collection of tools",
+  "description": "Tools to help you perform calculations, make decisions and assist in day-to-day problem solving",
+  "sites": [
+    {
+      "slug": "paypal-commission-calculator",
+      "title": "Paypal Commission Calculator",
+      "description": "Tool designed to quickly and accurately calculate the commissions charged by PayPal on transactions."
+    },
+    {
+      "slug": "job-application-tracking",
+      "title": "Job Application Tracking",
+      "description": "Application Trello style, designed to help users organize and track their job applications."
+    }
+  ]
+}
