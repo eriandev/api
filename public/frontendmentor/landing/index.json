@@ -2,9 +2,9 @@
   "header": {
     "navigation": [
       {
-        "external": false,
+        "external": true,
         "text": "My Solutions",
-        "to": "/"
+        "to": "https://www.frontendmentor.io/profile/eriandev/solutions"
       },
       {
         "external": true,
@@ -13,8 +13,8 @@
       },
       {
         "external": true,
-        "text": "Resources",
-        "to": "https://www.frontendmentor.io/resources"
+        "text": "Learning paths",
+        "to": "https://www.frontendmentor.io/learning-paths"
       }
     ],
     "profile": {
@@ -22,17 +22,17 @@
         "alt": "Profile image",
         "src": "/frontendmentor/images/profile-image.webp"
       },
-      "link": "https://www.frontendmentor.io/profile/eriandev/",
+      "link": "https://www.frontendmentor.io/profile/eriandev",
       "title": "Go to my frontendmentor profile"
     }
   },
   "footer": {
     "designedBy": {
-      "link": "https://www.frontendmentor.io/",
+      "link": "https://www.frontendmentor.io",
       "text": "Frontend Mentor"
     },
     "developedBy": {
-      "link": "https://erian.dev/",
+      "link": "https://erian.dev",
       "text": "@eriandev"
     }
   }
