@@ -8,6 +8,7 @@
       },
       "techs": ["html", "css", "js"],
       "title": "Job listings with filtering",
+      "description": "In this challenge, you'll be using JavaScript to filter out jobs based on selected categories. We provide a local JSON file to help you practice working with JSON data.",
       "link": "/frontendmentor/job-listings-with-filtering",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/job-listings-with-filtering.jpg"
     },
@@ -19,6 +20,7 @@
       },
       "techs": ["html", "css", "js"],
       "title": "Calculator app",
+      "description": "This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you!",
       "link": "/frontendmentor/calculator-app",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/calculator-app.jpg"
     },
@@ -28,8 +30,9 @@
         "name": "intermediate",
         "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
       },
-      "techs": ["html", "css", "js"],
-      "title": "IP address tracker",
+      "techs": ["html", "css", "js", "api"],
+      "title": "IP Address Tracker",
+      "description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
       "link": "/frontendmentor/ip-address-tracker",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/ip-address-tracker.jpg"
     },
@@ -41,6 +44,7 @@
       },
       "techs": ["html", "css"],
       "title": "Fylo landing page with two column layout",
+      "description": "This project is great if you're starting to get confident with slightly more complex layouts. The second section with the testimonial area will provide a nice challenge.",
       "link": "/frontendmentor/fylo-landing-page-with-two-column-layout",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/fylo-landing-page-with-two-column-layout.jpg"
     },
@@ -52,6 +56,7 @@
       },
       "techs": ["html", "css", "js"],
       "title": "Interactive card details form",
+      "description": "This fun project will be an excellent way to practice DOM manipulation and form validation while also putting your HTML and CSS skills to the test.",
       "link": "/frontendmentor/interactive-card-details-form",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/interactive-card-details-form.jpg"
     },
@@ -63,6 +68,7 @@
       },
       "techs": ["html", "css"],
       "title": "Social media dashboard with theme switcher",
+      "description": "This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.",
       "link": "/frontendmentor/social-media-dashboard-with-theme-switcher",
       "image": "https://eriandev.github.io/api/frontendmentor/previews/social-media-dashboard-with-theme-switcher.jpg"
     }

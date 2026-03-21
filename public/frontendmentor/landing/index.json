@@ -4,7 +4,7 @@
       {
         "external": true,
         "text": "My Solutions",
-        "to": "https://www.frontendmentor.io/profile/eriandev/solutions"
+        "to": "https://www.frontendmentor.io/profile/eriandev?tab=solutions"
       },
       {
         "external": true,
@@ -19,8 +19,8 @@
     ],
     "profile": {
       "image": {
-        "alt": "Profile image",
-        "src": "/frontendmentor/images/profile-image.webp"
+        "alt": "Profile avatar",
+        "src": "/frontendmentor/images/profile-avatar.webp"
       },
       "link": "https://www.frontendmentor.io/profile/eriandev",
       "title": "Go to my frontendmentor profile"
