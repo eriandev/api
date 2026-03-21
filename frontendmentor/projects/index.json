@@ -30,7 +30,7 @@
         "name": "intermediate",
         "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
       },
-      "techs": ["html", "css", "js"],
+      "techs": ["html", "css", "js", "api"],
       "title": "IP address tracker",
       "description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
       "link": "/frontendmentor/ip-address-tracker",
