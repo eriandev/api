@@ -2,6 +2,18 @@
   "results": [
     {
       "level": {
+        "number": 4,
+        "name": "advanced",
+        "link": "https://www.frontendmentor.io/challenges?difficulty=4&sort=difficulty%7Casc"
+      },
+      "techs": ["html", "css", "js", "api", "svelte"],
+      "title": "REST Countries API with color theme switcher",
+      "description": "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
+      "link": "/frontendmentor/countries-api-with-color-theme-switcher",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/countries-api-with-color-theme-switcher.jpg"
+    },
+    {
+      "level": {
         "number": 3,
         "name": "intermediate",
         "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
