@@ -18,6 +18,18 @@
         "name": "intermediate",
         "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
       },
+      "techs": ["html", "css"],
+      "title": "Space tourism multi-page website",
+      "description": "This project is a fun collaboration with Scrimba and Kevin Powell! If you like, you can follow along and watch Kevin complete the project on Scrimba. Lots to learn!",
+      "link": "/frontendmentor/space-tourism-multi-page-website",
+      "image": "https://eriandev.github.io/api/frontendmentor/previews/space-tourism-multi-page-website.jpg"
+    },
+    {
+      "level": {
+        "number": 3,
+        "name": "intermediate",
+        "link": "https://www.frontendmentor.io/challenges?difficulty=3&sort=difficulty%7Casc"
+      },
       "techs": ["html", "css", "js", "api", "svelte"],
       "title": "Weather app",
       "description": "Build a responsive weather app with search functionality, unit conversion, and detailed forecasts using the Open-Meteo API.",
