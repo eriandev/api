@@ -10,7 +10,9 @@
       "title": "REST Countries API with color theme switcher",
       "description": "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
       "link": "/frontendmentor/countries-api-with-color-theme-switcher",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/countries-api-with-color-theme-switcher.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/countries-api-with-color-theme-switcher.jpg"
+      }
     },
     {
       "level": {
@@ -22,7 +24,9 @@
       "title": "Space tourism multi-page website",
       "description": "This project is a fun collaboration with Scrimba and Kevin Powell! If you like, you can follow along and watch Kevin complete the project on Scrimba. Lots to learn!",
       "link": "/frontendmentor/space-tourism-multi-page-website",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/space-tourism-multi-page-website.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/space-tourism-multi-page-website.jpg"
+      }
     },
     {
       "level": {
@@ -34,7 +38,9 @@
       "title": "Weather app",
       "description": "Build a responsive weather app with search functionality, unit conversion, and detailed forecasts using the Open-Meteo API.",
       "link": "/frontendmentor/weather-app",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/weather-app.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/weather-app.jpg"
+      }
     },
     {
       "level": {
@@ -46,7 +52,9 @@
       "title": "Job listings with filtering",
       "description": "In this challenge, you'll be using JavaScript to filter out jobs based on selected categories. We provide a local JSON file to help you practice working with JSON data.",
       "link": "/frontendmentor/job-listings-with-filtering",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/job-listings-with-filtering.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/job-listings-with-filtering.jpg"
+      }
     },
     {
       "level": {
@@ -58,7 +66,9 @@
       "title": "Calculator app",
       "description": "This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you!",
       "link": "/frontendmentor/calculator-app",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/calculator-app.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/calculator-app.jpg"
+      }
     },
     {
       "level": {
@@ -70,7 +80,9 @@
       "title": "IP Address Tracker",
       "description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
       "link": "/frontendmentor/ip-address-tracker",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/ip-address-tracker.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/ip-address-tracker.jpg"
+      }
     },
     {
       "level": {
@@ -82,7 +94,9 @@
       "title": "Fylo landing page with two column layout",
       "description": "This project is great if you're starting to get confident with slightly more complex layouts. The second section with the testimonial area will provide a nice challenge.",
       "link": "/frontendmentor/fylo-landing-page-with-two-column-layout",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/fylo-landing-page-with-two-column-layout.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/fylo-landing-page-with-two-column-layout.jpg"
+      }
     },
     {
       "level": {
@@ -94,7 +108,9 @@
       "title": "Interactive card details form",
       "description": "This fun project will be an excellent way to practice DOM manipulation and form validation while also putting your HTML and CSS skills to the test.",
       "link": "/frontendmentor/interactive-card-details-form",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/interactive-card-details-form.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/interactive-card-details-form.jpg"
+      }
     },
     {
       "level": {
@@ -106,7 +122,9 @@
       "title": "Social media dashboard with theme switcher",
       "description": "This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.",
       "link": "/frontendmentor/social-media-dashboard-with-theme-switcher",
-      "image": "https://eriandev.github.io/api/frontendmentor/previews/social-media-dashboard-with-theme-switcher.jpg"
+      "picture": {
+        "source": "https://eriandev.github.io/api/frontendmentor/previews/social-media-dashboard-with-theme-switcher.jpg"
+      }
     }
   ]
 }
